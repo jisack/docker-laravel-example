@@ -1,0 +1,15 @@
+
+laravel
+|
+|---docker-php
+|   |
+|   |---Dockerfile
+|   |--- php.ini
+|
+|---docker-nginx
+|   |--- Dockerfile
+|   |--- default.conf
+|
+|---mysql(ignored)
+|
+|---docker-compose.yml 
