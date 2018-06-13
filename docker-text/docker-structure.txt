@@ -4,8 +4,7 @@ laravel
 |---docker-php
 |   |
 |   |---Dockerfile
-|   |--- php.ini
-|
+|  
 |---docker-nginx
 |   |--- Dockerfile
 |   |--- default.conf
